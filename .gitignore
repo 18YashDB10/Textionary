@@ -1,0 +1,4 @@
+db_store
+env
+/.env
+__pycache__
